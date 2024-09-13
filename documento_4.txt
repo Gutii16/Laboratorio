@@ -1,0 +1,1 @@
+Este documento esta creado con el editor VIM desde otra rama para luego hacer PR hacia main
